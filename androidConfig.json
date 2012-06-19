@@ -1,0 +1,22 @@
+{
+	"applicationName":"BigSiouxMedia",
+	"applicationId":"com.covrigenterprises.bigsiouxmedia",
+	"versionString":"1.0",
+	"iconName:":"C:\Users\Covrig\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\BS\icon.png",
+	"webAppPath":"C:\Users\Covrig\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\BS",
+	"inputPath":"C:\Users\Covrig\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\BS\",
+	"outputPath":"C:\Users\Covrig\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\BSbuild\",
+	"configuration":"Release",
+	"platform":"Android",
+	"deviceType":"Universal",
+	"certificatePath":"C:\Users\Covrig\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\BS\covrigent.keystore",
+	"certificateAlias":"CovrigEnterprises",
+	"sdkPath":"C:\Users\Covrig\android-sdks\",
+	"androidAPILevel": "10",
+	"orientations": [
+		"portrait",
+		"landscapeLeft",
+		"landscapeRight",
+		"portraitUpsideDown"
+	]
+}
